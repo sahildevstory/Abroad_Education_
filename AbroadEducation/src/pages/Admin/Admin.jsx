@@ -325,7 +325,7 @@ const Admin = () => {
 
                     />
                     <div>
-                        <label className="block text-sm font-medium text-gray-700">Author Image url: <span className="text-blue-800">https://tinyurl.com/bdfsmy8f</span></label>
+                        <label className="block text-sm font-medium text-gray-700">Author Image url: <span className="text-blue-800">https://yt3.googleusercontent.com/iK1P5EcYD3z9MSAJGzw6RWpZncYOTX06HgRI5nqaGPQrXOcNc7c12ERXTH3EXgoakLVFPG5F=s160-c-k-c0x00ffffff-no-rj</span></label>
 
                     </div>
 

@@ -23,7 +23,7 @@ const Blog = () => {
     description: "",
     image: [],
     authorName: "",
-    authorImage: "https://tinyurl.com/bdfsmy8f", // Adjusted to be an object
+    authorImage: "https://yt3.googleusercontent.com/iK1P5EcYD3z9MSAJGzw6RWpZncYOTX06HgRI5nqaGPQrXOcNc7c12ERXTH3EXgoakLVFPG5F=s160-c-k-c0x00ffffff-no-rj", // Adjusted to be an object
     category: "",
     tags: "",
     status: "draft",
