@@ -1,0 +1,95 @@
+.quill-editor {
+    height: 150px; /* Set the desired height */
+    margin-bottom: 1rem; /* Space below the editor */
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 0.375rem; /* Rounded corners */
+}
+
+/* Container styling */
+.container-description {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+.container-description h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.container-description h2 {
+    font-size: 24px;
+    color: #444;
+    margin-top: 20px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+/* Paragraphs */
+.container-description p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Images */
+.image-description {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin: 15px 0;
+}
+
+/* Table */
+.table-description {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.table-description th, .table-description td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.table-description th {
+    background: #333;
+    color: #fff;
+}
+
+.table-description tr:nth-child(even) {
+    background: #f2f2f2;
+}
+
+/* Lists */
+.list-description {
+    list-style: none;
+    padding: 0;
+}
+
+.list-description li {
+    padding: 8px 0;
+    font-size: 16px;
+}
+
+.list-description li strong {
+    color: #222;
+}
+
+/* Links */
+.container-description a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.container-description a:hover {
+    text-decoration: underline;
+}
